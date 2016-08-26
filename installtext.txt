@@ -1,0 +1,4 @@
+1.Assign location of JAVA-Enterprise-Management-System folder in your system **do not change any folder names
+2.create mysql database in phpmyadmin name it billingsystem
+3.import billingsystem.sql
+6.find passwords in db login_info table 
