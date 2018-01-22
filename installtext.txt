@@ -2,3 +2,4 @@
 2.create mysql database in phpmyadmin name it billingsystem
 3.import billingsystem.sql
 6.find passwords in db login_info table 
+7.Please follow the above steps
